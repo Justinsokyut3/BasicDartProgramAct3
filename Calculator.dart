@@ -1,13 +1,13 @@
-void main() 
+void main() {
   int num1 = 28;
   int num2 = 3;
 
   int sum = num1 + num2;
   int diff = num1 - num2;
   int mul = num1 * num2;
-  double div = num1 / num2; 
+  double div = num1 / num2;
   int intDiv = num1 ~/ num2;
-  int remainder = num1 % num2; 
+  int remainder = num1 % num2;
 
   print("=== Basic Arithmetic Operations ===");
   print("Numbers: $num1 and $num2");
