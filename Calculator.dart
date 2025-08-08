@@ -9,7 +9,7 @@ void main() {
   int intDiv = num1 ~/ num2;
   int remainder = num1 % num2;
 
-  print("=== Basic Arithmetic Operations ===");
+  print("-Dart Simple Calculator Program-");
   print("Numbers: $num1 and $num2");
   print("Sum: $sum");
   print("Difference: $diff");
@@ -18,4 +18,5 @@ void main() {
   print("Division (integer): $intDiv");
   print("Remainder: $remainder");
 }
+
 
